@@ -1,20 +1,52 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="DIAL COMMANDER" src="https://github.com/user-attachments/assets/0a2530ed-2721-4664-aa7c-77c758a9dbd5" />
 </div>
 
-# Run and deploy your AI Studio app
+# Dial Commander
 
-This contains everything you need to run your app locally.
+Dial Commander es una aplicación web para interactuar con comandos inteligentes desde una interfaz moderna y sencilla.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1KEV-q9V-Mmm_oekEtl9auqFFRAY3jyia
+## Características
 
-## Run Locally
+- Interfaz clara y fácil de usar
+- Ejecución rápida en entorno local
+- Configuración simple mediante variables de entorno
 
-**Prerequisites:**  Node.js
+## Requisitos
 
+- Node.js (versión LTS recomendada)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Instalación
+
+1. Clona el repositorio:
+   git clone <url-del-repositorio>
+
+2. Accede al directorio del proyecto:
+   cd dial-commander
+
+3. Instala las dependencias:
+   npm install
+
+## Configuración
+
+Crea un archivo .env.local en la raíz del proyecto y agrega:
+
+API_KEY=tu_api_key_aqui
+
+## Ejecutar en local
+
+npm run dev
+
+Luego abre tu navegador en:
+http://localhost:3000
+
+## Estructura del proyecto
+
+- /src – Código fuente principal
+- /public – Archivos estáticos
+- .env.local – Variables de entorno
+
+## Licencia
+
+Licencia definida por el autor del proyecto.
+
