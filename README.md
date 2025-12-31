@@ -18,18 +18,18 @@ Dial Commander es una aplicación web para interactuar con comandos inteligentes
 
 ## Instalación
 
-1. Clona el repositorio:
+1. Clona el repositorio  
    git clone <url-del-repositorio>
 
-2. Accede al directorio del proyecto:
+2. Accede al directorio del proyecto  
    cd dial-commander
 
-3. Instala las dependencias:
+3. Instala las dependencias  
    npm install
 
 ## Configuración
 
-Crea un archivo .env.local en la raíz del proyecto y agrega:
+Crea un archivo `.env.local` en la raíz del proyecto y agrega:
 
 API_KEY=tu_api_key_aqui
 
@@ -37,7 +37,8 @@ API_KEY=tu_api_key_aqui
 
 npm run dev
 
-Luego abre tu navegador en:
+Abre tu navegador en:
+
 http://localhost:3000
 
 ## Estructura del proyecto
@@ -48,5 +49,5 @@ http://localhost:3000
 
 ## Licencia
 
-Licencia definida por el autor del proyecto.
-
+Este proyecto está bajo la licencia MIT.  
+Consulta el archivo LICENSE para más información.
