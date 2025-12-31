@@ -1,0 +1,7 @@
+{
+  "name": "Android Native Dialer Clone",
+  "description": "A pixel-perfect Android Dialer clone with secret code detection, Material Design aesthetics, and a hidden admin panel for custom configuration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
