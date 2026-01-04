@@ -1,5 +1,5 @@
 {
-  "name": "teléfono",
+  "name": "Teléfono",
   "short_name": "Dialer",
   "description": "Android-style dialer with secret codes and admin panel",
   "start_url": "/",
